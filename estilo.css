@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+h1{
+	color:darkblue;
+	font-size: 5em;
+	font-family: "Anton"
+}
+p{
+	color: blueviolet;
+	font-family: "Barlow"
+}
+p.alternativo {
+color: blue;	
+}
+a:link{
+	color:darkred;
+}
+a:visited{
+	color: darkorange;
+}
+a:hover {
+	text-decoration: none
+}
